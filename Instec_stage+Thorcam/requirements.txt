@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tifffile
+pyserial
+instec            # Instec pyinstec library (Python >= 3.10)
+# thorlabs_tsi_sdk: install the wheel shipped with Thorlabs ThorCam /
+# "Scientific Camera Interfaces" (SDK/Python Toolkit), plus its native DLLs

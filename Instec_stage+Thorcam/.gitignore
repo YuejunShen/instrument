@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# per-machine GUI settings (written by the app)
+last_settings*.json
+# scan output
+temp_log_*.csv
